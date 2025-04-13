@@ -45,6 +45,7 @@ public class StudentNames {
         System.out.println("John Zedrick L. Bondoc - BSIT 2D");
         System.out.println("Denn Mark G. Respondo - BSIT 2D");
         System.out.println(" Bilmar M. Maglipon Jr. - BSIT 2D");
+	System.out.println("Edcel Y. Flores - BSIT 2C");
         System.out.println("John Paul Peterseph C. Credo - BSIT 2C");
         System.out.println("Stefanny D. Tapia - BSIT 2D");
         System.out.println("Miguel Albert C. Tabon - BSIT 2C");
