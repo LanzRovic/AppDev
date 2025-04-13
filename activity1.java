@@ -34,6 +34,7 @@ public class StudentNames {
         System.out.println("Ceejay B. Garcia - BSIT 2C");
         System.out.println("John Andrei Debuton - BSIT 2C");
         System.out.println("Jerickson A. Oblepias - BSIT 2C");
+	System.out.println("Hersy M. Baluyos - BSIT 2C");
         System.out.println("Gregpsalms P. Agpoon - BSIT 2C");
         System.out.println("Francis C. De belen - BSIT 2D");
         System.out.println("Paul T. Mago - BSIT 2D");
